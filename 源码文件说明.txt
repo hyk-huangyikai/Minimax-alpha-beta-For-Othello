@@ -1,0 +1,5 @@
+gameboard.py   游戏界面设计，棋子下子、撤销、打印棋盘等操作
+gamePlayer.py  人类玩家的类，AI类，minimax算法、alpha-beta剪枝、评估函数
+main.py 菜单设计、游戏运行设计
+player2.py  这是为了让AI互相对战设计的，为了更好的训练参数，代码跟gamePlayer一样
+	  只是参数不一样。
